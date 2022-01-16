@@ -1,6 +1,6 @@
-## Big Cody - 320x240 SimpleMenu Theme
+## BetaMax SimpleMenu Theme
 
-Based on https://github.com/CodyV59/es-theme-epic-cody-RG351V
+Based on https://github.com/fgl82/BigCody
 
 ---
 
@@ -30,3 +30,4 @@ By downloading and installing this theme it will be assumed that you own and pos
 
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
+
